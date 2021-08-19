@@ -9,8 +9,8 @@ module.exports = {
         'func-style': ['error', 'expression'],
         'no-new-func': 'error',
         'no-param-reassign': 'error',
-        'perfer-arror-callback': 'error',
-        'arror-parens': ['error', 'always'],
-        'arror-body-style': ['error', 'as-needed'],
+        'prefer-arrow-callback': 'error',
+        'arrow-parens': ['error', 'always'],
+        'arrow-body-style': ['error', 'as-needed'],
     },
 };

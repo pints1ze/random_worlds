@@ -56,9 +56,7 @@ console.log(weekAgo);
 
 const abRatio = 0.95;
 const input = 52;
-const abFactor = (value) => {
-    return (value * abRatio);
-};
+const abFactor = (value) => (value * abRatio);
 console.log(`abFactor: ${abFactor(input)}`);
 
 
