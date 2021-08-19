@@ -1,0 +1,22 @@
+{
+  "name": "random_worlds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pints1ze/random_worlds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pints1ze/random_worlds/issues"
+  },
+  "homepage": "https://github.com/pints1ze/random_worlds#readme",
+  "dependencies": {
+    "eslint": "^7.32.0"
+  }
+}
